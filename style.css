@@ -1,0 +1,102 @@
+#title{
+    text-align: center;
+    font-size: 50px;
+    font-family: "GORGE  ASH";
+    color: black;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: white;
+}
+
+html {
+    background: url('campfire.gif') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+body{
+
+}
+#difficulty{
+    margin-top: 20px;
+    text-align: left;
+    font-size: 20px;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: white;
+    font-family: "GORGE  ASH";
+}
+#myButton{
+    font-size: 20px;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: white;
+    font-family: "GORGE  ASH";
+    color: black;
+}
+#diff{
+    font-size: 40px;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: white;
+    font-family: "GORGE  ASH";
+}
+
+#blank{
+    font-size: 30px;
+    text-align: center;
+    margin-top: 10px;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: white;
+    font-family: "GORGE  ASH";
+}
+#guess{
+    text-align: left;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: white;
+    font-family: "GORGE  ASH";
+
+}
+#lives{
+    font-size: 30px;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: white;
+    font-family: "GORGE  ASH";
+}
+#livesRemaining{
+    font-size: 30px;
+    margin-top: 50px;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: white;
+    font-family: "GORGE  ASH";
+    font-size: 30px;
+}
+#graveyard{
+    font-size: 30px;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: white;
+    font-family: "GORGE  ASH";
+}
+#grave{
+    font-size: 40px;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: white;
+    font-family: "GORGE  ASH";
+}
+#myDiv{
+    font-size: 40px;
+    text-align: center;
+    margin-left: 250px;
+    margin-right: 250px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+#man{
+    margin-top: 30px;
+    text-align: center;
+    border-color: black;
+}
+
+#blank{
+    font-family: "GORGE  ASH";
+    color: black;
+
+}
